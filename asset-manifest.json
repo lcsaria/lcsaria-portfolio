@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/lcsaria-portfolio/static/css/main.018ab6d2.chunk.css",
-    "main.js": "/lcsaria-portfolio/static/js/main.6d9ca432.chunk.js",
-    "main.js.map": "/lcsaria-portfolio/static/js/main.6d9ca432.chunk.js.map",
+    "main.css": "/lcsaria-portfolio/static/css/main.767097fd.chunk.css",
+    "main.js": "/lcsaria-portfolio/static/js/main.88011c64.chunk.js",
+    "main.js.map": "/lcsaria-portfolio/static/js/main.88011c64.chunk.js.map",
     "runtime-main.js": "/lcsaria-portfolio/static/js/runtime-main.3b386047.js",
     "runtime-main.js.map": "/lcsaria-portfolio/static/js/runtime-main.3b386047.js.map",
-    "static/js/2.e3706a2a.chunk.js": "/lcsaria-portfolio/static/js/2.e3706a2a.chunk.js",
-    "static/js/2.e3706a2a.chunk.js.map": "/lcsaria-portfolio/static/js/2.e3706a2a.chunk.js.map",
+    "static/css/2.b7c87714.chunk.css": "/lcsaria-portfolio/static/css/2.b7c87714.chunk.css",
+    "static/js/2.b9ac836d.chunk.js": "/lcsaria-portfolio/static/js/2.b9ac836d.chunk.js",
+    "static/js/2.b9ac836d.chunk.js.map": "/lcsaria-portfolio/static/js/2.b9ac836d.chunk.js.map",
     "index.html": "/lcsaria-portfolio/index.html",
-    "precache-manifest.9b1882817c9c7d2f773c04458bca1395.js": "/lcsaria-portfolio/precache-manifest.9b1882817c9c7d2f773c04458bca1395.js",
+    "precache-manifest.a97868a3edfef4d1fad49c4f29027a73.js": "/lcsaria-portfolio/precache-manifest.a97868a3edfef4d1fad49c4f29027a73.js",
     "service-worker.js": "/lcsaria-portfolio/service-worker.js",
-    "static/css/main.018ab6d2.chunk.css.map": "/lcsaria-portfolio/static/css/main.018ab6d2.chunk.css.map",
-    "static/js/2.e3706a2a.chunk.js.LICENSE.txt": "/lcsaria-portfolio/static/js/2.e3706a2a.chunk.js.LICENSE.txt",
+    "static/css/2.b7c87714.chunk.css.map": "/lcsaria-portfolio/static/css/2.b7c87714.chunk.css.map",
+    "static/css/main.767097fd.chunk.css.map": "/lcsaria-portfolio/static/css/main.767097fd.chunk.css.map",
+    "static/js/2.b9ac836d.chunk.js.LICENSE.txt": "/lcsaria-portfolio/static/js/2.b9ac836d.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/lcsaria-portfolio/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/profileCard.png": "/lcsaria-portfolio/static/media/profileCard.a5beed02.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3b386047.js",
-    "static/js/2.e3706a2a.chunk.js",
-    "static/css/main.018ab6d2.chunk.css",
-    "static/js/main.6d9ca432.chunk.js"
+    "static/css/2.b7c87714.chunk.css",
+    "static/js/2.b9ac836d.chunk.js",
+    "static/css/main.767097fd.chunk.css",
+    "static/js/main.88011c64.chunk.js"
   ]
 }
