@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4c54b32c74a40bf383cfdc6cc7d205b",
+    "revision": "9efe8fc857a780c46372da482c25550c",
     "url": "/lcsaria-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lcsaria-portfolio/static/css/2.b7c87714.chunk.css"
   },
   {
-    "revision": "95ad7e8109539899e0fe",
+    "revision": "31857fbfcfb7e2e4e556",
     "url": "/lcsaria-portfolio/static/css/main.767097fd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lcsaria-portfolio/static/js/2.b9ac836d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "95ad7e8109539899e0fe",
-    "url": "/lcsaria-portfolio/static/js/main.88011c64.chunk.js"
+    "revision": "31857fbfcfb7e2e4e556",
+    "url": "/lcsaria-portfolio/static/js/main.d1dc0fe9.chunk.js"
   },
   {
     "revision": "c082489c21f8e5e20686",
