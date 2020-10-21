@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 import profile from "../img/profileCard.png";
 import * as c from '../constants';
